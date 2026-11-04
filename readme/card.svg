@@ -1,17 +1,18 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="692" viewBox="0 0 1600 692" role="img">
-<rect width="1600" height="692" fill="#1B0B1A"/>
-<rect x="48" y="36" width="1504" height="620" rx="18" fill="#2D1228"/>
-<rect x="48" y="36" width="14" height="620" rx="7" fill="#FF4D8D"/>
-<text x="96" y="108" fill="#FFF0F6" font-family="Arial, Helvetica, sans-serif" font-size="48" font-weight="700" text-anchor="start">A Quiet, Serious Offer</text>
-<rect x="96" y="180" width="80" height="5" rx="2" fill="#FF4D8D"/>
-<text x="96" y="232" fill="#FFF0F6" font-family="Arial, Helvetica, sans-serif" font-size="32" font-weight="500" text-anchor="start">Steady work, low noise</text>
-<text x="96" y="280" fill="#FFF0F6" font-family="Arial, Helvetica, sans-serif" font-size="32" font-weight="500" text-anchor="start">Part-time, remote, paid</text>
-<text x="96" y="328" fill="#FFF0F6" font-family="Arial, Helvetica, sans-serif" font-size="32" font-weight="500" text-anchor="start">Live products, paying clients</text>
-<text x="96" y="390" fill="#E7B6C9" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="500" text-anchor="start">We run a small software and AI practice with paying clients and live</text>
-<text x="96" y="434" fill="#E7B6C9" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="500" text-anchor="start">products.</text>
-<text x="96" y="478" fill="#E7B6C9" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="500" text-anchor="start">We are adding one engineer on a part-time, remote, paid basis, from</text>
-<text x="96" y="522" fill="#E7B6C9" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="500" text-anchor="start">$5,000 a month.</text>
-<text x="96" y="596" fill="#FF4D8D" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700" text-anchor="start">kaicolab.vercel.app/miyeoncelik558</text>
-<g transform="translate(64,642)"><g fill="#FF4D8D"><rect x="0.0" y="0.0" width="10.3" height="10.3" /><rect x="22.7" y="0.0" width="10.3" height="10.3" /><rect x="11.3" y="22.7" width="10.3" height="10.3" /><rect x="0.0" y="22.7" width="10.3" height="10.3" /><rect x="22.7" y="22.7" width="10.3" height="10.3" /></g></g>
-<text x="110" y="666" fill="#E7B6C9" font-family="Arial, Helvetica, sans-serif" font-size="22">@miyeoncelik558</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="810" viewBox="0 0 1600 810" role="img">
+<rect width="1600" height="810" fill="#24143A"/>
+<rect x="48" y="36" width="1504" height="484" rx="18" fill="#3B2158"/>
+<rect x="48" y="36" width="14" height="484" rx="7" fill="#C4B5FD"/>
+<text x="96" y="108" fill="#F5F3FF" font-family="Arial, Helvetica, sans-serif" font-size="48" font-weight="700" text-anchor="start">No title needed</text>
+<rect x="96" y="180" width="80" height="5" rx="2" fill="#C4B5FD"/>
+<text x="96" y="232" fill="#F5F3FF" font-family="Arial, Helvetica, sans-serif" font-size="32" font-weight="500" text-anchor="start">No Title Needed</text>
+<text x="96" y="294" fill="#DDD6FE" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="500" text-anchor="start">We do not hire by title. We work with people who are reliable and</text>
+<text x="96" y="338" fill="#DDD6FE" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="500" text-anchor="start">interested.</text>
+<text x="96" y="382" fill="#DDD6FE" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="500" text-anchor="start">Part-time, remote, across AI training, software, graphics and</text>
+<text x="96" y="426" fill="#DDD6FE" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="500" text-anchor="start">translation.</text>
+<rect x="323" y="556" width="954" height="264" rx="30" fill="#3B2158" fill-opacity="0.55"/>
+<rect x="357" y="582" width="886" height="132" rx="66" fill="#C4B5FD"/>
+<rect x="363" y="588" width="874" height="120" rx="60" fill="none" stroke="#1E1033" stroke-opacity="0.22" stroke-width="2"/>
+<text x="800" y="640" fill="#1E1033" font-family="Arial, Helvetica, sans-serif" font-size="40" font-weight="700" text-anchor="middle">See the offer or start onboarding</text>
+<text x="800" y="680" fill="#1E1033" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="600" text-anchor="middle">dataannotation.vercel.app</text>
+<text x="800" y="766" fill="#DDD6FE" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="500" text-anchor="middle">click anywhere on this card to start</text>
 </svg>
